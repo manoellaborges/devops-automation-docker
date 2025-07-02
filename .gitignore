@@ -1,0 +1,5 @@
+```gitignore
+# ignora arquivos temporários do PowerShell
+*.ps1~  
+*.ps1.save
+*.log
